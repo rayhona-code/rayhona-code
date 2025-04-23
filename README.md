@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there , I'm Rayhona 
+I'm passionate  Frontend Developer in the making, currently learning the art of creating cool websites and interfaces. HTML, CSS, and JavaScript are my tools, and every day is an opportunity  to build something new and awesome.
 
-<!--
-**rayhona-code/rayhona-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What am I up to?
+I'm all about designing responsive and user-friendly websites  that are both beautiful and functional. Right now, I'm diving into:
+- HTML & CSS (Mastering layouts and designs)
+- JavaScript (Adding interactivity and magic)
+- Git & GitHub (Because version control is life)
 
-Here are some ideas to get you started:
+## My Dream
+I dream of working at IT Park and being a part of a team that shapes the future with innovative technology. I also want to inspire others  to explore coding and tech. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
